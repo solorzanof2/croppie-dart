@@ -1,0 +1,14 @@
+name: croppie_dart
+description: Dart wrapper for croppie. A javascript image cropping library.
+version: 2.4.1
+author: michel <michel.werren@source-motion.ch>
+homepage: https://github.com/wem/croppie-dart
+
+environment:
+  sdk: '>=1.23.0 <2.0.0'
+
+dependencies:
+  js:
+
+dev_dependencies:
+  test:
