@@ -34,7 +34,7 @@ Basic usage example (standard Croppie methods):
     Promise promise = croppie.result(String type, String size, String format, int quality, bool circle);
 ```    
 
-###Convenience methods (Async / await):
+### Convenience methods (Async / await):
 
 This library provides a promise - async / await wrapper and several convenience methods to bind and get Croppie results in a typesafe manner.
 
